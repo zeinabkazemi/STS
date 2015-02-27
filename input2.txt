@@ -1,0 +1,5 @@
+Number of tasks: 4
+Task 1: [1 4 10]
+Task 2: [2 3 9]
+Task 3: [7 6 15]
+Task 4: [8 2 16]
